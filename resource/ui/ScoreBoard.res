@@ -935,7 +935,7 @@
 			"font"			"ZagBold16"
 			"font_minmode"	"surface26"
 			"fgcolor" "255 255 255 255"
-			"labelText"		":"
+			"labelText"		"#TF_ScoreBoard_DeathsLabel"
 			"textAlignment"		"center"
 			"xpos"		"160"
 			"xpos_minmode"	"41"
