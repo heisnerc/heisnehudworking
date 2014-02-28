@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"ypos"			"r92"	[$WIN32]
+		"xpos"			"c20"	[$WIN32]
+		"ypos"			"c95"	[$WIN32]
 		"xpos_minmode"	"r70"	[$WIN32]
 		"ypos_minmode"	"r74"	[$WIN32]
 		"xpos"			"r194"	[$X360]
@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
+		"xpos"			"9999"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"76"
@@ -55,14 +55,15 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"ZagRegular12"
+		"FGColor"				"0 255 0 255"
 	}
 
 	"ItemEffectMeter"
 	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"Default"
+		"font"					"ZagBold24"
 		"xpos"					"25"
 		"ypos"					"23"
 		"ypos_minmode"			"0"
@@ -85,10 +86,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"25"
-		"ypos"					"10"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"	
+		"tall"					"30"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -97,6 +98,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"ZagBold36"
+		"FGColor"				"255 255 0 255"
 	}
 }

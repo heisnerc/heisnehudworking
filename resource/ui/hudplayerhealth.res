@@ -10,7 +10,7 @@
 		"ypos"			"c101"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"250"
+		"wide"			"275"
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -78,7 +78,7 @@
 		"ypos"			"40"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
-		"wide"			"50"
+		"wide"			"60"
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"

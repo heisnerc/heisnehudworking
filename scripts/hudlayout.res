@@ -1041,7 +1041,7 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-40"	[$WIN32]
+		"xpos"			"c-44"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"c135"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]

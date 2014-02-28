@@ -15,7 +15,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"AccountBG"
-		"xpos"			"5"
+		"xpos"			"9999"
 		"ypos"			"103"
 		"zpos"			"0"
 		"wide"			"84"
@@ -36,7 +36,7 @@
 		"fieldName"		"MetalIcon"
 		"xpos"			"19"
 		"xpos_lodef"	"12"
-		"ypos"			"116"
+		"ypos"			"108"
 		"ypos_lodef"	"112"
 		"zpos"			"1"
 		"wide"			"10"
@@ -55,7 +55,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
 		"xpos"			"20"
-		"ypos"			"112"
+		"ypos"			"100"
 		"ypos_lodef"	"121"
 		"zpos"			"2"
 		"wide"			"55"
@@ -69,7 +69,8 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ZagBold32"
+		"font"			"ZagBold36"
 		"font_lodef"	"HudFontMedium"
+		"FGColor"		"255 0 255 255"
 	}
 }
